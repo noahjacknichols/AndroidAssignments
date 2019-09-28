@@ -4,4 +4,9 @@
     <string name="ButtonText">I\'m a button</string>
     <string name="LoginText">Login</string>
     <string name="PasswordText">Password</string>
+    <string name="dialog">Do you want to finish the activity?</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="my_information">My information to share</string>
+    <string name="dialog_title">Finish Activity</string>
 </resources>
