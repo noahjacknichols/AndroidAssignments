@@ -5,10 +5,10 @@
     <string name="ButtonText">je suis un bouton</string>
     <string name="LoginText">S\'identifier</string>
     <string name="PasswordText">mot de passe</string>
-    <string name="dialog">Do you want to finish the activity?</string>
-    <string name="ok">Ok</string>
-    <string name="cancel">Cancel</string>
-    <string name="my_information">My information to share</string>
-    <string name="dialog_title">Finish Activity</string>
+    <string name="dialog">voulez-vous terminer l\'activité?</string>
+    <string name="ok">D\'accord</string>
+    <string name="cancel">Annuler</string>
+    <string name="my_information">Mes informations à partager</string>
+    <string name="dialog_title">Terminer l\'activité</string>
 
 </resources>
