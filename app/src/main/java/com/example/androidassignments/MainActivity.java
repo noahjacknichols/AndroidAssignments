@@ -35,6 +35,14 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+        Button toolBarButton = (Button) findViewById(R.id.testToolbar);
+        toolBarButton.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v){
+                Intent intent = new Intent(getApplicationContext(), TestToolbar.class);
+                startActivity(intent);
+            }
+        });
     }
 
     @Override

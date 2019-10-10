@@ -10,4 +10,11 @@
     <string name="my_information">My information to share</string>
     <string name="dialog_title">Finish Activity</string>
     <string name="startChat">Start Chat</string>
+    <string name="sendChatButton">Send</string>
+    <string name="title_activity_test_toolbar">TestToolbar</string>
+    <string name="testToolbarTitle">"Do you want to go back?</string>
+    <string name="toolbarPositive">Yes</string>
+    <string name="toolbarNegative">No</string>
+
+
 </resources>
